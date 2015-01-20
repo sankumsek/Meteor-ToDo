@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b9c56241-2c7e-453e-ac5b-8f82bc05fb3b" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/simple-todos.js" afterPath="$PROJECT_DIR$/simple-todos.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/simple-todos.html" afterPath="$PROJECT_DIR$/simple-todos.html" />
     </list>
     <ignored path="Meteor-ToDo.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,21 +26,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="simple-todos.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="simple-todos.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/simple-todos.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.33506224" vertical-offset="0" max-vertical-offset="964">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="918">
               <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="simple-todos.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="simple-todos.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/simple-todos.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-7.1923075" vertical-offset="0" max-vertical-offset="663">
-              <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+            <state vertical-scroll-proportion="0.14498934" vertical-offset="0" max-vertical-offset="938">
+              <caret line="8" column="48" selection-start-line="8" selection-start-column="48" selection-end-line="8" selection-end-column="48" />
               <folding />
             </state>
           </provider>
@@ -68,8 +68,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/simple-todos.html" />
         <option value="$PROJECT_DIR$/simple-todos.js" />
+        <option value="$PROJECT_DIR$/simple-todos.html" />
       </list>
     </option>
   </component>
@@ -265,18 +265,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/simple-todos.html">
+    <entry file="file://$PROJECT_DIR$/simple-todos.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.1923075" vertical-offset="0" max-vertical-offset="663">
-          <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="918">
+          <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/simple-todos.js">
+    <entry file="file://$PROJECT_DIR$/simple-todos.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33506224" vertical-offset="0" max-vertical-offset="964">
-          <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+        <state vertical-scroll-proportion="0.14498934" vertical-offset="0" max-vertical-offset="938">
+          <caret line="8" column="48" selection-start-line="8" selection-start-column="48" selection-end-line="8" selection-end-column="48" />
           <folding />
         </state>
       </provider>
